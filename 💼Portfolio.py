@@ -4,7 +4,7 @@ from streamlit_option_menu import option_menu
 from utils.constants import *
 
 # configure page settings
-st.set_page_config(page_title='Template' ,layout="wide",initial_sidebar_state="auto", page_icon='👧🏻') # always show the sidebar
+st.set_page_config(page_title='Lindokuhle Dlomo Profile' ,layout="wide",initial_sidebar_state="auto", page_icon='👧🏻') # always show the sidebar
 
 # load local CSS styles
 def local_css(file_name):
