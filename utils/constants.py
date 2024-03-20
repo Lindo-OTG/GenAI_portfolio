@@ -71,7 +71,7 @@ projects = [
         },
         {
             "title": "Land Your Dream Job: Build Your Portfolio with GenAI",
-            "description": "Boost your career visibility with an AI-driven chatbot and interactive app, enabling recruiters to directly "talk" to your skills",
+            "description": "Boost your career visibility with an AI-driven chatbot and interactive app, enabling recruiters to directly 'talk' to your skills",
             "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0UVUEN+v1"
         },
     ]
