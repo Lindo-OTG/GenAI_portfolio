@@ -14,6 +14,7 @@ WORKDIR /streamlit-chatbot-template
 COPY . .
 
 # Install Python packages listed in requirements.txt using pip
+RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 # Expose port 8501 for external access
