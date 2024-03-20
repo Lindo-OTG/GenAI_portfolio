@@ -37,8 +37,8 @@ info = {
    "Pronoun": "his", 
    "Subject": "he", 
    "Name": "Lindokuhle",
-   "Full_Name":"Lindokuhle Percieval Dlomo", 
-   "Intro": "Multi Discipline Software Engineering Specialist. Tech and Business Enthusiast",
+   "Full_Name":"Lindokuhle Dlomo", 
+   "Intro": "Multi Discipline Software Engineering Specialist.",
    "About":"Hello, I'm Lindo, and I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. You can explore my portfolio on LinkedIn, Github and download my resume to see how I can contribute to your team's success.",
    "LinkedIn":"http://www.linkedin.com/in/lindokuhle-dlomo-2a07a91a1",
    "Github":"https://github.com/Lindo-OTG",
@@ -51,38 +51,31 @@ projects = [
         {
             "title": "The Cosmos Hotel",
             "description": "Hotel management Desktop App",
+            "image_url": "https://drive.google.com/file/d/1Hgyxv_BGg7DtazJhPLhJ0s2EXGPMhvX8/view?usp=drive_link",
             "link": "https://github.com/Lindo-OTG/The-Cosmos-Hotel"
         },
         {
             "title": "IBM: Build Your Own Chatbot",
             "description": "A practical introduction that will teach you everything you need to know to plan, build, and deploy your first customer support chatbot.",
-            "image_url": "https://images.credly.com/size/680x680/images/b5243e36-b05f-426b-994a-87a535f1c217/Build_your_own_chatbot_-_CC_v3.png",
+            "image_url": "https://drive.google.com/file/d/1RK8r0-GqX8uCwcACr29nJE-olmF92gIZ/view?usp=drive_link",
             "link": "https://www.credly.com/badges/a363b4b9-1a34-44e4-a9c5-8d847937423c/linked_in_profile"
         },
         {
             "title": "Vulindlela",
-            "description": "C# Project to connect Drivers in an online community to share information and ease time on the road",
+            "description": "C# Project to connect Vehicle Drivers in an online community to share information and ease time on the road",
+            "image_url": "https://drive.google.com/file/d/1ZFplF_c_4bYL7mI1kOKokiu42W1NLFmh/view?usp=drive_link",
             "link": "https://github.com/Lindo-OTG/VULINDLELA-HOME"
         },
         {
             "title": "Filesystem Watcher",
             "description": "A C# project that monitors any chosen file or directory (including its subdirectories). once a file or directory is chosen, any changes made to will be logged and communicated.",
+            "image_url": "https://drive.google.com/file/d/1QHKlwgS3md49oCrWF_BizmbyR7WblvfN/view?usp=drive_link",
             "link": "https://github.com/Lindo-OTG/File-System-Watcher"
         },
         {
             "title": "Land Your Dream Job: Build Your Portfolio with GenAI",
             "description": "Boost your career visibility with an AI-driven chatbot and interactive app, enabling recruiters to directly 'talk' to your skills",
+            "image_url": "https://drive.google.com/file/d/1ISnqYxSoP6SVAST7UDcZx9-HdjnmhZg0/view?usp=drive_link",
             "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0UVUEN+v1"
         },
     ]
-
-# embed_rss= {
-#     'rss':"""<div style="overflow-y: scroll; height:500px; background-color:white;"> <div id="retainable-rss-embed" 
-#         data-rss="https://medium.com/feed/@vicky-note"
-#         data-maxcols="3" 
-#         data-layout="grid"
-#         data-poststyle="inline" 
-#         data-readmore="Read the rest" 
-#         data-buttonclass="btn btn-primary" 
-#         data-offset="0"></div></div> <script src="https://www.twilik.com/assets/retainable/rss-embed/retainable-rss-embed.js"></script>"""
-# }
