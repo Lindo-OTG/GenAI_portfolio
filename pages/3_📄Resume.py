@@ -2,7 +2,7 @@ import streamlit as st
 import base64
 from utils.constants import *
 
-st.set_page_config(page_title='Template' ,layout="wide",initial_sidebar_state="auto", page_icon='👧🏻') # always show the sidebar
+st.set_page_config(page_title='Lindokuhle Dlomo Profile' ,layout="wide",initial_sidebar_state="auto", page_icon='👧🏻') # always show the sidebar
 
 def local_css(file_name):
     with open(file_name) as f:
