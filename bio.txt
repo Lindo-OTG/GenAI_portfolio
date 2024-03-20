@@ -1,0 +1,89 @@
+PROFILE SUMMARY
+Lindo is an IT and Business enthusiast with a user-focused and solution-driven mindset, relentlessly challenging the status quo. With four years of full-time work and study experience, His Journey journey began in Pretoria, South Africa, where he embarked on a technology career by enrolling for a degree in software engineering. This journey led him to East London, where he landed his first job as Full Stack Software Engineer and Graduate Trainee. forever learning and upskilling he has his eyes and goals set on a master's degree in IT. He thrives on pushing himself beyond limits and has worked to complete the Developing full view of the software Engineering cycle and the individual nodes in the chain. From planning, to Backend, API, Frontend and Database Development. Microservices, Containers, Deployments, Message Queues and Cloud platforms. Lindo's work blends technical skills with business insights, fostering real innovation.
+
+ACHIEVEMENTS
+- Varsity SRC Member and SRC Board Member: Taking on Leadership roles and becoming a voice and respresentative of fellow students.
+- Chess Team Captain and Volleyball Team Captain: Co-led the Chess Team to Two Gold and one Bronze medal at Johannesburg Innercity Chess Tournaments.
+- National Performing Arts awards for Theatre and Dance and 2x Johannesburg Carnival Awards: A Performing artist since childhood, Lindo Performed at Theatres throught Johannesburg. With talents in Dance, Acting and Singing. Has won Multiple awards and recognition for his performances.
+- 3x Math Olympiad Finalist and Silver Certificate Award CAT & IT Olympiad: Math and IT enthusiast since highschool, Lindo has competed in a few Olympiads where he has always made it past the first challenge landing into the early finals or becoming a finalist.
+
+STRENGTHS AND ADVANTAGES
+- Proficient in DevOps, Backend and web development.
+- Creative and agile problem solver.
+- Good Collaborater, Team Player and Leader
+
+WEAKNESSES AND DISADVANTAGES
+Lindo's strong drive for achieving results occasionally led him to prioritize outcomes over nurturing a growth mindset. However, He recognized the importance of learning from each experience and preventing the same failures in the future. He also believes that fostering a growth mindset can contribute to a more open-minded and collaborative teamwork environment.
+
+LATEST PROJECTS
+The most recent project He has completed is the development of this website using watsonx and Streamlit. Its primary purpose is to serve as a central hub for potential employers to explore his portfolio, providing insights into his work and projects.
+Additionally, He's currently dedicating his efforts to establishing his own IT Consulting Firm, providing a full range of IT services, based on his experience and work done. His goal is to leverage the outcomes of this work and growth to develop his own OpenSource offering in the future, something similar to Canonical Ubuntu, a product that can used by billions of people worldwide.
+
+SALARY EXPECTATION OR EXPECTED SALARY: Lindo is looking for a competitive salary that is evaluated based on his skills, experience and education.
+
+AVAILABILITY TO WORK
+Lindo will be available to work from April 2024.
+
+CONTACT
+- Address: Johannesburg, South Africa
+- Phone number: (+27) 76-502-0045
+- Email: lindo03.dlomo@gmail.com
+
+SKILLS
+- Coding: C#, JavaScript, Python, Docker, TypeScript, Php, NodeJS, .Net, .NetCore, Entity framework
+- Database Development: SQL, NoSql Elasticsearch, Opensearch, MongoDB, Redis, Cloud Storage
+- Web Development: Nodejs, REACT, Angular, HTML5, CSS3, IIS, MaterialUI, JQuery, Flask
+- Cloud Development: CI/CD Pipelines, Deployments, Yaml, git, azure, shell scripting, testing
+- Project Management Software: Azure Boards, Git Workflow, Confluence, Service Now, kanban
+- Monitoring & Log Management: Grafana, Prometheus, CheckMK, FluentD, Kibana
+- API Testing Tool: Postman, Swagger
+- Prototyping and UML: Figma, Draw.io, Adobe XD  
+- Computer Skills: MS Office, Google Office
+- Message Queues: kafka, rabbitmq, mqtt, redis
+
+
+EDUCATION BACKGROUND
+Bachelor of Computing (BComp) major in Software Engineering
+- Belgium Campus ITversity, Pretoria, South Africa
+- Jan 2018 - Mar 2023
+- Status: Complete
+- Cumulative GPA: 2.9 / 4.0
+- Archivements: Student Representive Counsil (SRC) Memeber, SRC Board Member, Team/Project Lead (2019,2020)
+
+
+WORK EXPERIENCE
+Founding Member and Full Stack Developer
+- Realword Corp. IT Solutions, Johannesburg, South Africa
+- Dec 2023 – Present
+- Tech Stack: Full Range IT Consulting
+- Details and Responsibilities: Providing a full range of IT services. Full stack IT solutions based on the customer's need, like Web Development, API, Microservices, Migrations, DevOps and cloud just to name a few.
+
+DevOps Engineer
+- Mercedes-Benz, East London, South Africa
+- Apr 2023 - Sept 2023
+- Tech Stack: Azure DevOps, Cloud Development, Git Workflow, CI/CD Pipelines
+- Details and Responsibilities: Collaborate with Architects, QA, Security and Developers to design and implement DevOps practices across product delivery. Implement and maintain CI/CD pipelines for product components. Design automated product builds Implement and design automated deployments of product releases to various environments stages. Integrate various tools in the DevOps toolchain to accelerate development teams' velocity while maintaining high standards for quality and consistency. Attend to support tickets, which may arise due to product components not functioning as expected.
+
+Full Stack Software Engineer, Graduate Trainee
+- Mercedes-Benz, East London, South Africa
+- Apr 2021 - Apr 2023
+- Tech Stack: Full Stack Backend, API, Frontend and Database Development. Web Development (MERN STACK).
+- Details and Responsibilities: Upskilling and integration. Developing full view of the software Engineering cycle and the individual nodes in the chain. From planning, to Backend, API, Frontend and Database Development. Microservices, Containers, Deployments, Message Queues and Cloud platforms. I have hands on experience in all of those, in a real dev to prod setting, including Testing and Operational support
+
+
+Lab and Teaching Assistant
+- Belgium Campus ITVersity, Kempton Park, South Africa
+- Mar 2019 – Mar 2020
+- Tech Stack: Ms Office Suite
+- Details and Responsibilities: Marking Scripts and Data Capturing, Invigilating, Creating Spreadsheets, and other Documents. And other general office work like Copying, Scanning and Printing.
+
+
+CERTIFICATES
+- Udemy: React- The Complete Guide by Maximilian Schwarzmüller
+- Udemy: Understanding TypeScript by Maximilian Schwarzmüller
+- IBM Build Your Own ChatBot
+- JHJ Training: Mercedes-Benz South Africa Work Readiness Program
+- Udemy: Azure Cloud Practioner Prep Course
+
+REFERENCE
+References are available upon request.
