@@ -51,31 +51,31 @@ projects = [
         {
             "title": "The Cosmos Hotel",
             "description": "Hotel management Desktop App",
-            "image_url": "https://drive.google.com/file/d/1Hgyxv_BGg7DtazJhPLhJ0s2EXGPMhvX8/view?usp=drive_link",
+            "image_url": "images/cosmos_hotel.png",
             "link": "https://github.com/Lindo-OTG/The-Cosmos-Hotel"
         },
         {
             "title": "IBM: Build Your Own Chatbot",
             "description": "A practical introduction that will teach you everything you need to know to plan, build, and deploy your first customer support chatbot.",
-            "image_url": "https://drive.google.com/file/d/1RK8r0-GqX8uCwcACr29nJE-olmF92gIZ/view?usp=drive_link",
+            "image_url": "images/chatbot.jpeg",
             "link": "https://www.credly.com/badges/a363b4b9-1a34-44e4-a9c5-8d847937423c/linked_in_profile"
         },
         {
             "title": "Vulindlela",
             "description": "C# Project to connect Vehicle Drivers in an online community to share information and ease time on the road",
-            "image_url": "https://drive.google.com/file/d/1ZFplF_c_4bYL7mI1kOKokiu42W1NLFmh/view?usp=drive_link",
+            "image_url": "images/vulindlela.jpg",
             "link": "https://github.com/Lindo-OTG/VULINDLELA-HOME"
         },
         {
             "title": "Filesystem Watcher",
             "description": "A C# project that monitors any chosen file or directory (including its subdirectories). once a file or directory is chosen, any changes made to will be logged and communicated.",
-            "image_url": "https://drive.google.com/file/d/1QHKlwgS3md49oCrWF_BizmbyR7WblvfN/view?usp=drive_link",
+            "image_url": "file_system watcher.jpg",
             "link": "https://github.com/Lindo-OTG/File-System-Watcher"
         },
         {
             "title": "Land Your Dream Job: Build Your Portfolio with GenAI",
             "description": "Boost your career visibility with an AI-driven chatbot and interactive app, enabling recruiters to directly 'talk' to your skills",
-            "image_url": "https://drive.google.com/file/d/1ISnqYxSoP6SVAST7UDcZx9-HdjnmhZg0/view?usp=drive_link",
+            "image_url": "images/profile.jpeg",
             "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0UVUEN+v1"
         },
     ]

@@ -102,6 +102,7 @@ with st.container():
                 f'<img src="{project["image_url"]}" style="width:100%;height:auto;"></a>',
                 unsafe_allow_html=True,
             )
+            #st.image(Image.open({project["image_url"]}))
             st.markdown(f'<p style="font-size: 16px; font-weight: bold;">{project["title"]}</p>', unsafe_allow_html=True)
             st.markdown(f'<p style="font-size: 14px">{project["description"]}</p>', unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1,1,1])
@@ -112,7 +113,7 @@ with st.container():
         for j, col in enumerate(columns):
             if i + j < len(projects):  # Check if project index is within range
                 display_project(col, projects[i + j])
-#st.markdown(""" <a href={}> <em>👀 Click here to see more </a>""".format('www.github.com/Lindo-OTG'), unsafe_allow_html=True)
+st.markdown(""" <a href={}> <em>👉 Check out my Github Profile</a>""".format(info['Github']), unsafe_allow_html=True)  
     
 
 st.write("---")
