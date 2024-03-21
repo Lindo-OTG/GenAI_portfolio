@@ -112,7 +112,7 @@ with st.container():
         for j, col in enumerate(columns):
             if i + j < len(projects):  # Check if project index is within range
                 display_project(col, projects[i + j])
-st.markdown(""" <a href={}> <em>👀 Click here to see more </a>""".format(info['Project']), unsafe_allow_html=True)
+st.markdown("" <a href={}> <em>👀 Click here to see more </a>"".format(info['Project']), unsafe_allow_html=True)
     
 
 st.write("---")
