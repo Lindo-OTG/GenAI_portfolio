@@ -3,8 +3,8 @@ from utils.constants import *
 import torch
 from llama_index.embeddings import LangchainEmbedding
 from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader, LLMPredictor, ServiceContext
-from langchain_community.embeddings import HuggingFaceInstructEmbeddings
-# from langchain.embeddings import HuggingFaceInstructEmbeddings
+# from langchain_community.embeddings import HuggingFaceInstructEmbeddings
+from langchain.embeddings import HuggingFaceInstructEmbeddings
 from ibm_watson_machine_learning.foundation_models.extensions.langchain import WatsonxLLM
 from ibm_watson_machine_learning.foundation_models.utils.enums import ModelTypes, DecodingMethods
 from ibm_watson_machine_learning.metanames import GenTextParamsMetaNames as GenParams
