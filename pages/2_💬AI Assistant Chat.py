@@ -83,8 +83,7 @@ with st.spinner("Initiating the AI assistant. Please hold..."):
         }
         
         credentials = {
-            # 'url': "https://us-south.ml.cloud.ibm.com",
-            'url': "https://frankfurt.ml.cloud.ibm.com",
+            'url': "https://us-south.ml.cloud.ibm.com",
             'apikey' : Watsonx_API
         }
     
