@@ -8,7 +8,7 @@ RUN groupadd -r myuser && useradd -r -g myuser myuser
 USER root 
 
 # Set the working directory inside the Docker container
-WORKDIR /streamlit-chatbot-template
+WORKDIR /portfolio
 
 # Copy all files from the current build context into the container's working directory
 COPY . .

@@ -2,17 +2,18 @@ chat = {
     "TITLE1": "About Me",
     "TITLE2": "AI Chat",
     "menu_v": {
-   "container": {"background-color": "#a7c5ff"},
-   "icon": {"color": "white", "font-size": "25px"}, 
-   "nav-link": {"font-size": "25px", "text-align": "center", "color": "white", "margin":"0px", "--hover-color": "#1b97ff"},
-   "nav-link-selected": {"background-color": "#1b97ff"}
+        "container": {"background-color": "#a7c5ff"},
+        "icon": {"color": "white", "font-size": "25px"}, 
+        "nav-link": {"font-size": "25px", "text-align": "center", "color": "white", "margin":"0px", "--hover-color": "#1b97ff"},
+        "nav-link-selected": {"background-color": "#1b97ff"}
     },
     "menu_h": {
-        "container": {"padding": "0px",
-                      "display": "grid",
-                      "margin": "0!important",
-                      "background-color": "#212121"
-                      },
+        "container": {
+            "padding": "0px",
+            "display": "grid",
+            "margin": "0!important",
+            "background-color": "#212121"
+            },
         "icon": {"color": "#bd93f9", "font-size": "14px"},
         "nav-link": {
             "font-size": "14px",
@@ -34,17 +35,17 @@ chat = {
 }
 
 info = {
-   "Pronoun": "his", 
-   "Subject": "he", 
-   "Name": "Lindokuhle",
-   "Full_Name":"Lindokuhle Dlomo", 
-   "Intro": "Multi Discipline Software Engineering Specialist.",
-   "About":"Hello, I'm Lindo, and I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. You can explore my portfolio on LinkedIn, Github and download my resume to see how I can contribute to your team's success.",
-   "LinkedIn":"http://www.linkedin.com/in/lindokuhle-dlomo-2a07a91a1",
-   "Github":"https://github.com/Lindo-OTG",
-   "City":"Johannesburg, South Africa",
-   "Resume": "https://drive.google.com/file/d/1SKdfRfvYc3AUk6pinhZN2WS90P5NjmtY/view?usp=sharing",
-   "Email": "lindo03.dlomo@gmail.com" 
+    "Pronoun": "his", 
+    "Subject": "he", 
+    "Name": "Lindokuhle",
+    "Full_Name":"Lindokuhle Dlomo", 
+    "Intro": "Multi Discipline Software Engineering Specialist.",
+    "About":"Hello, I'm Lindo, and I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. You can explore my portfolio on LinkedIn, Github and download my resume to see how I can contribute to your team's success.",
+    "LinkedIn":"http://www.linkedin.com/in/lindokuhle-dlomo-2a07a91a1",
+    "Github":"https://github.com/Lindo-OTG",
+    "City":"Johannesburg, South Africa",
+    "Resume": "https://drive.google.com/file/d/1SKdfRfvYc3AUk6pinhZN2WS90P5NjmtY/view?usp=sharing",
+    "Email": "lindo03.dlomo@gmail.com" 
 }
 
 projects = [
