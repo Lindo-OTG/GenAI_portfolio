@@ -110,7 +110,7 @@ with st.container():
 
     # adjust the range(0, len(projects), 3) accordingly if the length of your projects is not a multiple of 3
     # for i in range(0, len(projects), 3):
-    for i in range(0, len(projects)):
+    for i in range(0, len(projects),5):
         for j, col in enumerate(columns):
             if i + j < len(projects):  # Check if project index is within range
                 display_project(col, projects[i + j])
