@@ -70,13 +70,19 @@ projects = [
         {
             "title": "Filesystem Watcher",
             "description": "A C# project that monitors any chosen file or directory (including its subdirectories). once a file or directory is chosen, any changes made to will be logged and communicated.",
-            "image_url": "file_system watcher.jpg",
+            "image_url": "images/file_system_watcher.jpg",
             "link": "https://github.com/Lindo-OTG/File-System-Watcher"
         },
         {
             "title": "Land Your Dream Job: Build Your Portfolio with GenAI",
             "description": "Boost your career visibility with an AI-driven chatbot and interactive app, enabling recruiters to directly 'talk' to your skills",
-            "image_url": "images/profile.jpeg",
+            "image_url": "images/genai.jpeg",
             "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0UVUEN+v1"
+        },
+        {
+            "title": "WPF TreeView",
+            "description": "Simple Treeview program to map all the drives, directories and folders in a machine.",
+            "image_url": "images/treeview.png",
+            "link": "https://github.com/Lindo-OTG/wpfTreeView"
         },
     ]
