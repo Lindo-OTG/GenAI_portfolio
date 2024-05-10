@@ -97,13 +97,13 @@ with st.container():
 
     def display_project(col, project):
         with col:
-            st.markdown(
-                f'<a href="{project["link"]}" target="_blank" class="portfolio-item"><img src="{project["image_url"]}" alt="{project["title"]}" style="width:100%;height:auto;" /></a>',
-                unsafe_allow_html=True,
-            )
-            # projImage = Image.open(f'{project["image_url"]}')            
-            # st.image(projImage)
-            st.markdown(f'<p style="font-size: 16px; font-weight: bold;">{project["title"]}</p>', unsafe_allow_html=True)            
+            # st.markdown(
+            #     f'<a href="{project["link"]}" target="_blank" class="portfolio-item"><img src="{project["image_url"]}" alt="{project["title"]}" style="width:100%;height:auto;" /></a>',
+            #     unsafe_allow_html=True,
+            # )
+            projImage = Image.open(f'{project["image_url"]}')            
+            st.image(projImage)
+            # st.markdown(f'<p style="font-size: 16px; font-weight: bold;">{project["title"]}</p>', unsafe_allow_html=True)            
             st.markdown(f'<p style="font-size: 16px; font-weight: bold;"><a href="{project["link"]}" target="_blank" class="portfolio-item">{project["title"]}</a></p>', unsafe_allow_html=True)
             st.markdown(f'<p style="font-size: 14px">{project["description"]}</p>', unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1,1,1])
