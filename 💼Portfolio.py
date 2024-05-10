@@ -96,14 +96,13 @@ with st.container():
     projects = projects
 
     def display_project(col, project):
-        # projImage = Image.open(f"{project["image_url"]}")
-        # st.image(projImage, width=280)
         with col:
             # st.markdown(
             #     f'<a href="{project["link"]}" target="_blank" class="portfolio-item" data-id="3"><img src="{project["image_url"]}" alt="{project["title"]}" style="width:100%;height:auto;" /></a>',
             #     unsafe_allow_html=True,
             # )
-            st.image(Image.open({project["image_url"]}))
+            projImage = Image.open(f"{project["image_url"]}")
+            st.image(projImage, width=280)
             st.markdown(f'<p style="font-size: 16px; font-weight: bold;">{project["title"]}</p>', unsafe_allow_html=True)
             st.markdown(f'<p style="font-size: 14px">{project["description"]}</p>', unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1,1,1])
