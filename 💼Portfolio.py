@@ -86,7 +86,7 @@ change_button_color('Chat with My AI Assistant', '#0cc789')
 
 from  PIL import Image
 with col2:
-    profile = Image.open("images/profile.jpeg")
+    profile = Image.open("images/chatbot.jpeg")
     st.image(profile, width=280)
           
 with st.container():
