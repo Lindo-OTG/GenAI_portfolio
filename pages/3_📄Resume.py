@@ -39,9 +39,9 @@ st.title("📝 Resume")
 st.write(f"[Click here if it's blocked by your browser]({info['Resume']})")
 
 with open("images/resume.pdf","rb") as f:
-    base64_pdf = base64.b64encode(f.read()).decode('utf-8')
+    # base64_pdf = base64.b64encode(f.read()).decode('utf-8')
     # pdf_display = F'<iframe src="data:application/pdf;base64,{base64_pdf}" width="1000mm" height="1000mm" type="application/pdf" />'
-    pdf_display = F'<embed type="application/pdf" title="Resume" src="data:application/pdf;base64,{base64_pdf}" style="overflow: auto; width: 100%; height: 100%;" />'
+    pdf_display = F'<embed type="application/pdf" title="Resume" src="images/resume.pdf" style="overflow: auto; width: 100%; height: 100%;" />'
     st.markdown(pdf_display, unsafe_allow_html=True)
 
 # st.markdown(f'<embed class="pdfobject" type="application/pdf" title="Resume" src="images/resume.pdf" style="overflow: auto; width: 100%; height: 100%;">', unsafe_allow_html=True)        
