@@ -102,7 +102,7 @@ with st.container():
             #     unsafe_allow_html=True,
             # )
             projImage = Image.open(f'{project["image_url"]}')            
-            st.markdown(f'<a href="{project["link"]}" target="_blank" class="portfolio-item" data-id="3">{st.image(projImage)}</a>',unsafe_allow_html=True)
+            st.image(projImage)
             st.markdown(f'<p style="font-size: 16px; font-weight: bold;">{project["title"]}</p>', unsafe_allow_html=True)
             st.markdown(f'<p style="font-size: 14px">{project["description"]}</p>', unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1,1,1])
