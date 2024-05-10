@@ -51,7 +51,7 @@ info = {
 projects = [
         {
             "title": "The Cosmos Hotel",
-            "description": "Hotel management Desktop App",
+            "description": "Hotel management Desktop App.",
             "image_url": "images/cosmos_hotel.png",
             "link": "https://github.com/Lindo-OTG/The-Cosmos-Hotel"
         },
@@ -63,7 +63,7 @@ projects = [
         },
         {
             "title": "Vulindlela",
-            "description": "C# Project to connect Vehicle Drivers in an online community to share information and ease time on the road",
+            "description": "C# Project to connect Vehicle Drivers in an online community to share information and ease time on the road.",
             "image_url": "images/vulindlela.jpg",
             "link": "https://github.com/Lindo-OTG/VULINDLELA-HOME"
         },
@@ -75,7 +75,7 @@ projects = [
         },
         {
             "title": "Land Your Dream Job: Build Your Portfolio with GenAI",
-            "description": "Boost your career visibility with an AI-driven chatbot and interactive app, enabling recruiters to directly 'talk' to your skills",
+            "description": "Boost your career visibility with an AI-driven chatbot and interactive app, enabling recruiters to directly 'talk' to your skills.",
             "image_url": "images/genai.jpeg",
             "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0UVUEN+v1"
         },
