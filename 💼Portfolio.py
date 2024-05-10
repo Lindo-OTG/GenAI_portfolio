@@ -86,7 +86,7 @@ change_button_color('Chat with My AI Assistant', '#0cc789')
 
 from  PIL import Image
 with col2:
-    profile = Image.open("images/chatbot.jpeg")
+    profile = Image.open("images/profile.jpeg")
     st.image(profile, width=280)
           
 with st.container():
@@ -96,12 +96,18 @@ with st.container():
     projects = projects
 
     def display_project(col, project):
+        # projImage = Image.open(f"{project["image_url"]}")
+        # st.image(projImage, width=280)
         with col:
+            # st.markdown(
+            #     f'<a href="{project["link"]}" target="_blank" class="portfolio-item" data-id="3"><img src="{project["image_url"]}" alt="{project["title"]}" style="width:100%;height:auto;" /></a>',
+            #     unsafe_allow_html=True,
+            # )
             st.markdown(
-                f'<a href="{project["link"]}" target="_blank" class="portfolio-item" data-id="3"><img src="{project["image_url"]}" alt="{project["title"]}" style="width:100%;height:auto;" /></a>',
+                f'<a href="{project["link"]}" target="_blank" class="portfolio-item" data-id="3">{st.image(Image.open({project["image_url"]}))}</a>',
                 unsafe_allow_html=True,
             )
-            #st.image(Image.open({project["image_url"]}))
+            # st.image(Image.open({project["image_url"]}))
             st.markdown(f'<p style="font-size: 16px; font-weight: bold;">{project["title"]}</p>', unsafe_allow_html=True)
             st.markdown(f'<p style="font-size: 14px">{project["description"]}</p>', unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1,1,1])
